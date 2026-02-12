@@ -2,11 +2,11 @@
 
 > *Examples of using Machine Learning in **Google Colab**.*
 
-### Run in Google Colab
+### Run in the Google Colab
 
-**1.** Open the notebook your_notebook.ipynb.
+**1.** Open the notebook ML.ipynb.
 
-**2.** The first cell will automatically clone the data from this repository.
+**2.** The first cell will automaticaly clone the data from this reprository.
 
 **3.** You can run all cells without manual file uploads.
 
