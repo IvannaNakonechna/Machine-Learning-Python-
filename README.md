@@ -1,5 +1,4 @@
 # Machine Learning Experiments in Python
---
 
 > *Examples of using Machine Learning in **Google Colab**.*
 
