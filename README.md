@@ -10,4 +10,5 @@
 
 **3.** You can run all cells without manual file uploads.
 
-### Link to examples in Google Colab: https://colab.research.google.com/drive/1O0XAfIdZjmXJ1ONrwpCFyhM-bgy_dgP_?usp=sharing
+### Link to examples in Google Colab: 
+https://colab.research.google.com/drive/1O0XAfIdZjmXJ1ONrwpCFyhM-bgy_dgP_?usp=sharing
